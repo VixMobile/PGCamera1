@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<widget xmlns ="http://www.w3.org/ns/widgets"
+        xmlns:gap ="http://phonegap.com/ns/1.0"
+        id ="com.psjplearn.PGCamera1"
+        versionCode ="1"
+        version ="0.0.1">
+
+  <name>PGCamera1</name>
+
+  <description>
+    PG Camera example 1
+  </description>
+
+  <author href="http://psjplearn.blogspot.com" email="sai.ponduru2@gmail.com">
+    Sai Ponduru
+  </author>
+
+  <plugin name="Camera" value="org.apache.cordova.CameraLauncher" />
+  
+</widget>
